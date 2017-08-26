@@ -15,7 +15,7 @@ var Weather = React.createClass({
 
     this.setState({
       isLoading: true,
-      errorMessage: undefined,
+      errorMessage: 'City not found',
       location: undefined,
       temp: undefined
     });
