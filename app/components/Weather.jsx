@@ -74,6 +74,9 @@ var Weather = React.createClass({
         <WeatherForm onSearch={this.handleSearch}/>
         {renderMessage()}
         {renderError()}
+
+        <p className="text-center note"><b>Note:</b> There is possibility when you type wrong city name but you get weather details.<br/>
+        This problem is due to openweathermap API. </p>
       </div>
     )
   }
