@@ -1,5 +1,5 @@
 <h1>React Weather Application</h1>
-<h4>About</h4>
+<h3>About</h3>
 
 This is a weather application build on React.
 
@@ -11,3 +11,5 @@ Here are some tools that I used:
 <li><b>Foundation</b> - I used Foundation for styling application.</li>
 <li><b>jQuery</b> - I also used jQuery in application.</li>
 </ul>
+
+<h3>Installation</h3>
