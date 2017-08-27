@@ -1,7 +1,7 @@
 {
   "name": "reactweatherapp",
   "version": "1.0.0",
-  "description": "react weather application",
+  "description": "react weather applicatio",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
