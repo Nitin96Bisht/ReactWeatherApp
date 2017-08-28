@@ -1,4 +1,5 @@
 <h1>React Weather Application</h1>
+
 <h3>Demo</h3>
 https://secret-hollows-62713.herokuapp.com/
 
@@ -41,3 +42,5 @@ Here are some tools that I used:
 <h3>Author</h3>
 <a href="https://github.com/Nitin96Bisht">Nitin Bisht</a>
 
+<h3>License</h3>
+This project is licensed under the MIT License.
