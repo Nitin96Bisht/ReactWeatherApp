@@ -24,4 +24,5 @@ Here are some tools that I used:
 <ol>
 <li>Download this project</li>
 <li>Install node modules as shown below:</li>
+```npm install```
 </ol>
