@@ -13,4 +13,15 @@ Here are some tools that I used:
 <li><b>Heroku</b> - I also used Heroku in order to deploy the application.</li>
 </ul>
 
+<h3>Usage</h3>
+<ol>
+<li><a href="https://nodejs.org/en/">Node.</a></li>
+<li><a href="https://www.npmjs.com/">NPM.</a></li>
+<li>Any text editor, Atom prefered.</li>
+</ol>
+
 <h3>Installation</h3>
+<ol>
+<li>Download this project</li>
+<li></li>
+</ol>
