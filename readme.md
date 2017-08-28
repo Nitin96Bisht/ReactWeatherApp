@@ -37,3 +37,6 @@ Here are some tools that I used:
 
 </ol>
 
+<h3>Author</h3>
+<a href="https://github.com/Nitin96Bisht">Nitin Bisht</a>
+
