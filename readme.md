@@ -23,5 +23,5 @@ Here are some tools that I used:
 <h3>Installation</h3>
 <ol>
 <li>Download this project</li>
-<li></li>
+<li>Install node modules as shown below:</li>
 </ol>
