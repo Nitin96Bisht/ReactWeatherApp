@@ -28,5 +28,9 @@ Here are some tools that I used:
 
 ```npm install```
 
+<li>Run project as shown below:</li>
+
+```node server.js```
+
 </ol>
 
