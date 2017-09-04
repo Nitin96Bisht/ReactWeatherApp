@@ -18,7 +18,7 @@ Here are some tools that I used:
 <li><b>Heroku</b> - I also used Heroku in order to deploy the application.</li>
 </ul>
 
-<h3>Prerequisites</h3>
+<h3>Requirements</h3>
 <ol>
 <li><a href="https://nodejs.org/en/">Node.</a></li>
 <li><a href="https://www.npmjs.com/">NPM.</a></li>
