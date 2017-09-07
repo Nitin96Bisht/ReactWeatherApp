@@ -20,8 +20,8 @@ Here are some tools that I used:
 
 <h3>Requirements</h3>
 <ol>
-<li><a href="https://nodejs.org/en/">Node.</a></li>
-<li><a href="https://www.npmjs.com/">NPM.</a></li>
+<li><a href="https://nodejs.org/en/" target="_blank">Node.</a></li>
+<li><a href="https://www.npmjs.com/" target="_blank">NPM.</a></li>
 <li>Any text editor, Atom prefered.</li>
 </ol>
 
