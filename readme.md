@@ -20,8 +20,7 @@ Here are some tools that I used:
 
 ## Requirements
 <ol>
-<li><a href="https://nodejs.org/en/" target="_blank">Node.</a></li>
-<li><a href="https://www.npmjs.com/" target="_blank">NPM.</a></li>
+<li>Node & Npm.</li>
 <li>Any text editor, Atom prefered.</li>
 </ol>
 
