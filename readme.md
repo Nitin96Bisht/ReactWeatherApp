@@ -3,7 +3,7 @@
 <h3> Live Demo</h3>
 https://secret-hollows-62713.herokuapp.com/
 
-<h3>Getting Started</h3>
+<h3>About</h3>
 
 This is a weather application build on React.
 
