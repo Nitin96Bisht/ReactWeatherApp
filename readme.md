@@ -18,14 +18,14 @@ Here are some tools that I used:
 <li><b>Heroku</b> - I also used Heroku in order to deploy the application.</li>
 </ul>
 
-<h3>Requirements</h3>
+## Requirements
 <ol>
 <li><a href="https://nodejs.org/en/" target="_blank">Node.</a></li>
 <li><a href="https://www.npmjs.com/" target="_blank">NPM.</a></li>
 <li>Any text editor, Atom prefered.</li>
 </ol>
 
-<h3>Installing</h3>
+## Installing 
 <ol>
 <li>Download this project</li>
 <li>Install node modules as shown below:</li>
@@ -39,8 +39,8 @@ Here are some tools that I used:
 
 </ol>
 
-<h3>Author</h3>
+## Author 
 <a href="https://github.com/Nitin96Bisht">Nitin Bisht</a>
 
-<h3>License</h3>
+## License 
 This project is licensed under the MIT License.
