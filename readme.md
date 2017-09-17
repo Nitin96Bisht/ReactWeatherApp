@@ -29,10 +29,15 @@ Here are some tools that I used:
 ## Installing 
 <ol>
 <li>Download this project</li>
+
+```git clone https://github.com/Nitin96Bisht/ReactWeatherApp```
+
 <li>Install node modules as shown below:</li>
 
 
-```cd ReactWeatherApp && npm install```
+```cd ReactWeatherApp```
+<br>
+```npm install```
 
 <li>Run project as shown below:</li>
 
