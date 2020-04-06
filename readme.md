@@ -30,7 +30,7 @@ Here are some tools that I used:
 <ol>
 <li>Download this project</li>
 
-```git clone https://github.com/Nitin96Bisht/ReactWeatherApp```
+```git clone git@github.com:Nitin96Bisht/ReactWeatherApp.git```
 
 <li>Install node modules as shown below:</li>
 
